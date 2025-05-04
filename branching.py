@@ -6,7 +6,16 @@
 # if he is from the distant past (before 1900),
 # the present era (1900-2020) or from the far future (beyond 2020).
 
+"""
+Time traveler greeting
+===============================
 
+Author: Chyngyz Mirzamatov
+Created on: Sunday, May 5 2025
+Last updated on: Sunday, May 5 2025
+
+This programm will greet with you depends what year you are giving as input
+"""
 
 
 
