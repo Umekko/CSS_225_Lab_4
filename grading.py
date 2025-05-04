@@ -1,6 +1,14 @@
-# Calculating Grades (ok, let me think about this one)
+"""
+Calculating Grades 
+===============================
 
-# Write a program that will average 3 numeric exam grades, return an average test score, a corresponding letter grade, and a message stating whether the student is passing.
+Author: Chyngyz Mirzamatov
+Created on: Sunday, May 5 2025
+Last updated on: Sunday, May 5 2025
+
+Program that  average 3 numeric exam grades, return an average test score, a corresponding letter grade, and a message stating whether the student is passing.
+"""
+
 
 # Average	Grade
 # 90+	A
@@ -18,6 +26,7 @@
 # Average: 33
 # Grade: F
 # Student iis failing.
+
 
 """
     One of int() never closed
