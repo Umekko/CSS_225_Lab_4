@@ -9,6 +9,19 @@
 # Anthony Trollope, 1882
 # Gerard Manley Hopkins, 1889
 
+"""
+Authors and their death dates
+===============================
+
+Author: Chyngyz Mirzamatov
+Created on: Sunday, May 5 2025
+Last updated on: Sunday, May 5 2025
+
+This programm shows authors and their death year
+"""
+
+
+
 authors = {
     "Charles Dickens": 1870,
     "William Thackeray": 1863,
